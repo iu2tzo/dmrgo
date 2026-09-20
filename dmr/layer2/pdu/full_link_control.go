@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/USA-RedDragon/dmrgo/dmr/enums"
-	reedSolomon "github.com/USA-RedDragon/dmrgo/dmr/fec/reed_solomon"
-	layer2Elements "github.com/USA-RedDragon/dmrgo/dmr/layer2/elements"
-	layer3Elements "github.com/USA-RedDragon/dmrgo/dmr/layer3/elements"
+	"github.com/iu2tzo/dmrgo/dmr/enums"
+	reedSolomon "github.com/iu2tzo/dmrgo/dmr/fec/reed_solomon"
+	layer2Elements "github.com/iu2tzo/dmrgo/dmr/layer2/elements"
+	layer3Elements "github.com/iu2tzo/dmrgo/dmr/layer3/elements"
 )
 
 // ETSI TS 102 361-1 V2.5.1 (2017-10) - 9.1.6  Full Link Control (FULL LC) PDU

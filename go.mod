@@ -1,3 +1,3 @@
-module github.com/USA-RedDragon/dmrgo
+module github.com/iu2tzo/dmrgo
 
 go 1.25.7

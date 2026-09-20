@@ -3,8 +3,8 @@ package pdu
 import (
 	"fmt"
 
-	"github.com/USA-RedDragon/dmrgo/dmr/fec/golay"
-	"github.com/USA-RedDragon/dmrgo/dmr/layer2/elements"
+	"github.com/iu2tzo/dmrgo/dmr/fec/golay"
+	"github.com/iu2tzo/dmrgo/dmr/layer2/elements"
 )
 
 // ETSI TS 102 361-1 V2.5.1 (2017-10) - 9.1.3 Slot Type (SLOT) PDU

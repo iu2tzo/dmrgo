@@ -4,8 +4,8 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/USA-RedDragon/dmrgo/dmr/fec/golay"
-	"github.com/USA-RedDragon/dmrgo/dmr/fec/prng"
+	"github.com/iu2tzo/dmrgo/dmr/fec/golay"
+	"github.com/iu2tzo/dmrgo/dmr/fec/prng"
 )
 
 type VocoderFrame struct {

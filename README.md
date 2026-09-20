@@ -1,6 +1,6 @@
 # dmrgo
 
-[![License](https://badgen.net/github/license/USA-RedDragon/dmrgo)](https://github.com/USA-RedDragon/dmrgo/blob/main/LICENSE.md) [![GoReportCard](https://goreportcard.com/badge/github.com/USA-RedDragon/dmrgo)](https://goreportcard.com/report/github.com/USA-RedDragon/dmrgo) [![codecov](https://codecov.io/gh/USA-RedDragon/dmrgo/graph/badge.svg?token=ON6XI1I21H)](https://codecov.io/gh/USA-RedDragon/dmrgo)
+[![License](https://badgen.net/github/license/iu2tzo/dmrgo)](https://github.com/iu2tzo/dmrgo/blob/main/LICENSE.md) [![GoReportCard](https://goreportcard.com/badge/github.com/iu2tzo/dmrgo)](https://goreportcard.com/report/github.com/iu2tzo/dmrgo) [![codecov](https://codecov.io/gh/iu2tzo/dmrgo/graph/badge.svg?token=ON6XI1I21H)](https://codecov.io/gh/iu2tzo/dmrgo)
 
 This library decodes a raw 33-byte DMR packet into Golang-native structures.
 

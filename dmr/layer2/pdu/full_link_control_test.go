@@ -4,10 +4,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/USA-RedDragon/dmrgo/dmr/enums"
-	"github.com/USA-RedDragon/dmrgo/dmr/layer2/elements"
-	"github.com/USA-RedDragon/dmrgo/dmr/layer2/pdu"
-	layer3Elements "github.com/USA-RedDragon/dmrgo/dmr/layer3/elements"
+	"github.com/iu2tzo/dmrgo/dmr/enums"
+	"github.com/iu2tzo/dmrgo/dmr/layer2/elements"
+	"github.com/iu2tzo/dmrgo/dmr/layer2/pdu"
+	layer3Elements "github.com/iu2tzo/dmrgo/dmr/layer3/elements"
 )
 
 // buildInfoBits converts 12 packed bytes into 96 unpacked bits (one bit per byte).

@@ -1,7 +1,7 @@
 package pdu
 
 import (
-	"github.com/USA-RedDragon/dmrgo/dmr/vocoder"
+	"github.com/iu2tzo/dmrgo/dmr/vocoder"
 )
 
 type Vocoder struct {

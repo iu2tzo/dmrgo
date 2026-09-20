@@ -3,8 +3,8 @@ package pdu
 import (
 	"fmt"
 
-	"github.com/USA-RedDragon/dmrgo/dmr/enums"
-	quadraticResidue "github.com/USA-RedDragon/dmrgo/dmr/fec/quadratic_residue"
+	"github.com/iu2tzo/dmrgo/dmr/enums"
+	quadraticResidue "github.com/iu2tzo/dmrgo/dmr/fec/quadratic_residue"
 )
 
 // ETSI TS 102 361-1 V2.5.1 (2017-10) - 9.1.2 Embedded signalling (EMB) PDU

@@ -3,12 +3,12 @@ package layer2
 import (
 	"fmt"
 
-	"github.com/USA-RedDragon/dmrgo/dmr/enums"
-	"github.com/USA-RedDragon/dmrgo/dmr/fec/bptc"
-	"github.com/USA-RedDragon/dmrgo/dmr/fec/golay"
-	trellis34 "github.com/USA-RedDragon/dmrgo/dmr/fec/trellis"
-	"github.com/USA-RedDragon/dmrgo/dmr/layer2/elements"
-	"github.com/USA-RedDragon/dmrgo/dmr/layer2/pdu"
+	"github.com/iu2tzo/dmrgo/dmr/enums"
+	"github.com/iu2tzo/dmrgo/dmr/fec/bptc"
+	"github.com/iu2tzo/dmrgo/dmr/fec/golay"
+	trellis34 "github.com/iu2tzo/dmrgo/dmr/fec/trellis"
+	"github.com/iu2tzo/dmrgo/dmr/layer2/elements"
+	"github.com/iu2tzo/dmrgo/dmr/layer2/pdu"
 )
 
 // Burst represents a DMR burst.

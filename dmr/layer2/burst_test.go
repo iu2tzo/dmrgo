@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/USA-RedDragon/dmrgo/dmr/layer2"
+	"github.com/iu2tzo/dmrgo/dmr/layer2"
 )
 
 func loadBursts(t testing.TB, path string) [][33]byte {
